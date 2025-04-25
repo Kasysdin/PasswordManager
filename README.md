@@ -6,13 +6,13 @@ Een uitgebreid project zoals dit kan veel richtingen in en de keuzes van aanpak 
 
 General Info:
 - 
--
--
--
+- Progression
+- Final Version
+- End of The Line
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Progress:
+Progression:
 - 
 - Stage 1:
 
