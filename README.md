@@ -31,3 +31,20 @@ Na wat struggle is het gelukt om een samengevoegde demo te hebben, hiermee bouwe
 
 - Stage 4:
 
+Op dit punt is de basics afgerond en worden er alleen maar extras toegevoegd. Hieruit zal dan de (voorlopige) laatste versie komen.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Final Version:
+- 
+- In deze versie kun je een account aanmaken.
+- In de account page een username instellen.
+- In de settings page darkmode enablen.
+- In de vault page worden de gegenerate passwords opgeslagen.
+- In de password generator page kun je een password generaten voor een gekozen site, aangepaste password lenght met letter,nummers en- of speciale tekens. Deze kun je dan opslagen en in de vault bekijken en kopieëren.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+End of The Line:
+- 
+Dit rond het project af die wij gemaakt hebben. Iets grandioos is het niet maar het is wel iets dat we nog nooit mee gewerkt hebben en we zijn blij dat we het hebben kunnen proberen. Natuurlijk zou het altijd beter gekunt hebben maar niet alles is altijd mogelijk...
